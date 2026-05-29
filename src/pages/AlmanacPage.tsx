@@ -141,7 +141,7 @@ const AlmanacPage = () => {
               TASSA 2026 Examination Almanac
             </h1>
             <p className="text-xl opacity-90 max-w-2xl mx-auto">
-              Complete schedule for Series 5, 6, 7 & 8 examinations and related activities
+              Complete schedule for Series 1, 2, 3 & 4 examinations and related activities
             </p>
           </div>
         </div>
